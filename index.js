@@ -249,7 +249,7 @@ deadRabbit9.style.display = 'none'
 let mainThem = new Audio();
 mainThem.src = './sound/mainThem.mp3'
 mainThem.preload = 'auto'
-mainThem.volume = '0.5'
+mainThem.volume = 0.3
 
 let shootSound = new Audio();
 shootSound.src = './sound/shoot.mp3'
